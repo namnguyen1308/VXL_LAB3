@@ -1,0 +1,4 @@
+seven_segment_led.c:15:6:automatic_update_7SEG	8	static
+seven_segment_led.c:31:6:manual_update_7SEG	8	static
+seven_segment_led.c:47:6:update7SEG	16	static
+seven_segment_led.c:88:6:display7SEG	16	static
